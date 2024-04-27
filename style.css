@@ -5,7 +5,15 @@ h1 {
 h2 {
     color: red;
 }
-
-.cover {
-    width: 300px;
+.belowTop{
+    display: flex;
+}
+.sideTab {
+    width: 20%;
+    height: 100%;
+    
+}
+.mainTab{
+}
+.nameBox {
 }
