@@ -1,17 +1,34 @@
+body {
+    font-family: verdana;
+}
+
 h1 {
+    text-align: center;
 }
 
 h2 {
 }
+
 .belowTop{
     display: flex;
 }
+
 .sideTab {
     width: 20%;
     height: 100%;
-    
+    color: white;
+    background-color: rgb(0,50,120);
+    text-align: left;
 }
+
 .mainTab{
 }
+
+.contactBox{
+    text-align: left;
+}
+
 .nameBox {
+    color: black;
+    text-align: center;
 }
